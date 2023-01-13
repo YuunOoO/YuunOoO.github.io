@@ -3,9 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8f9ecbb95e2654604f2c26617fd1f22e",
+  "assets/AssetManifest.json": "1a4f0a156a26ac60242ad3dde8fc6b2d",
 "assets/assets/AiGlitch.jpg": "d2b4775f9399bcdba51cf7ff57bcd088",
 "assets/assets/bg3.png": "c220baf9b09c8e41a3babe645294c43d",
+"assets/assets/canvasCard.png": "2b00f872789e456b0c1bfddacddc3b6b",
 "assets/assets/cursor.gif": "c6721b7e2c4f6ed79cd2b652d5d9a935",
 "assets/assets/fonts/Cyberpunk.ttf": "9deb7d5fae2c035eb8b7d35f62169309",
 "assets/assets/fonts/Minecraft.ttf": "d7b98c450349bef0631c7229b804a5c7",
@@ -32,9 +33,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "291709972fdda0a3c3338af82fc130e0",
-"/": "291709972fdda0a3c3338af82fc130e0",
-"main.dart.js": "1b78e1a87c99ac098321394457f639d9",
+"index.html": "211a4b782b406c07c50d1187745a8296",
+"/": "211a4b782b406c07c50d1187745a8296",
+"main.dart.js": "a19bc1f73071b2b49fcd374b59f00489",
 "manifest.json": "ce97b5ecc1220cd4a5a59e096c638464",
 "splash/img/light-background.png": "c220baf9b09c8e41a3babe645294c43d",
 "splash/splash.js": "123c400b58bea74c1305ca3ac966748d",
